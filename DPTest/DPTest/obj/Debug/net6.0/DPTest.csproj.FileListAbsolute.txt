@@ -1,0 +1,15 @@
+G:\School\Ambrad\340\DesignPatternTestLog\DPTest\DPTest\bin\Debug\net6.0\DPTest.exe
+G:\School\Ambrad\340\DesignPatternTestLog\DPTest\DPTest\bin\Debug\net6.0\DPTest.deps.json
+G:\School\Ambrad\340\DesignPatternTestLog\DPTest\DPTest\bin\Debug\net6.0\DPTest.runtimeconfig.json
+G:\School\Ambrad\340\DesignPatternTestLog\DPTest\DPTest\bin\Debug\net6.0\DPTest.dll
+G:\School\Ambrad\340\DesignPatternTestLog\DPTest\DPTest\bin\Debug\net6.0\DPTest.pdb
+G:\School\Ambrad\340\DesignPatternTestLog\DPTest\DPTest\obj\Debug\net6.0\DPTest.csproj.AssemblyReference.cache
+G:\School\Ambrad\340\DesignPatternTestLog\DPTest\DPTest\obj\Debug\net6.0\DPTest.GeneratedMSBuildEditorConfig.editorconfig
+G:\School\Ambrad\340\DesignPatternTestLog\DPTest\DPTest\obj\Debug\net6.0\DPTest.AssemblyInfoInputs.cache
+G:\School\Ambrad\340\DesignPatternTestLog\DPTest\DPTest\obj\Debug\net6.0\DPTest.AssemblyInfo.cs
+G:\School\Ambrad\340\DesignPatternTestLog\DPTest\DPTest\obj\Debug\net6.0\DPTest.csproj.CoreCompileInputs.cache
+G:\School\Ambrad\340\DesignPatternTestLog\DPTest\DPTest\obj\Debug\net6.0\DPTest.dll
+G:\School\Ambrad\340\DesignPatternTestLog\DPTest\DPTest\obj\Debug\net6.0\refint\DPTest.dll
+G:\School\Ambrad\340\DesignPatternTestLog\DPTest\DPTest\obj\Debug\net6.0\DPTest.pdb
+G:\School\Ambrad\340\DesignPatternTestLog\DPTest\DPTest\obj\Debug\net6.0\DPTest.genruntimeconfig.cache
+G:\School\Ambrad\340\DesignPatternTestLog\DPTest\DPTest\obj\Debug\net6.0\ref\DPTest.dll
